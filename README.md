@@ -16,5 +16,4 @@
     </h1>
 </p>
 
-<p align="center">
-    I think he might be involved in some sort of gang or something.
+
