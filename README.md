@@ -1,8 +1,4 @@
 <p align="center">
-    PEEVEE#7430
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peevee2020&layout=compact&theme=chartreuse-dark" />
 </p>
 
