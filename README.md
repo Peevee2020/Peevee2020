@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peevee2020&layout=compact&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peevee2020&layout=full&hide_border=true&theme=dark&title_color=#FFFFFF" />
 </p>
 
 <!-- <p align="center">
@@ -8,3 +8,4 @@
  -->
 
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=aik-10&layout=full&hide_border=true&theme=vue&title_color=#FFFFFF
